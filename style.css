@@ -1,0 +1,35 @@
+.links {
+  font-size: 24px;
+  color: #279e18;
+  font-family: "Times New Roman", helvetica, sans-serif;
+}
+#homeTitle {
+  font-size: 36px;
+  color: #0a0331;
+  background-color: rgb(62, 182, 238);
+  text-align: center;
+}
+.goBack {
+  font-size: 24px;
+  text-align: center;
+  background-color: rgb(188, 234, 248);
+  color: rgb(29, 202, 13);
+}
+.recipeTitle {
+  font-size: 36px;
+}
+.titles {
+  font-family: Helvetica, "Times New Roman", sans-serif;
+  color: rgb(10, 41, 10);
+}
+p,
+li {
+  color: #2b092b;
+}
+p {
+  background-color: rgb(199, 226, 123);
+}
+li {
+  background-color: rgb(199, 199, 255);
+  font-size: 20px;
+}
